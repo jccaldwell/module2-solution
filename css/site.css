@@ -136,7 +136,7 @@ div#container {
 @media (max-width: 767px) {
 .col-sm-2{
     float: left;
-    width:94%%;
+    width:94%;
     height: 250px;
     background-color:gray;
     padding-top: 45px;
